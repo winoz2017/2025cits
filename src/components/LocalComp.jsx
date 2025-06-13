@@ -101,8 +101,8 @@ function LocalComp() {
         center={
           mapData.length > 0
             ? {
-                lat: mapData[0].lat,
-                lng: mapData[0].lon,
+                lat: 37.5665,
+                lng: 126.978,
               }
             : defaultCenter
         }
