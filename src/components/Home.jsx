@@ -5,6 +5,9 @@ function Home() {
   return (
     <div>
       <SliderComp />
+      <div className="container">
+        <h3>안녕하세요 샘플입니다. </h3>
+      </div>
 
       <footer className="bg-dark text-white py-4 mt-5">
         <div className="container">
